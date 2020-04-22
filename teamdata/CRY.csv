@@ -1,0 +1,30 @@
+Day,Date,Time,Venue,Result,GF,GA,Opponent,xG,xGA,Attendance,Captain,Formation,Referee
+Sat,2019-08-10,15:00 ,Home,D,0.0,0.0,Everton,0.8,0.9,25151.0,Luka Milivojević,4-4-2,Jonathan Moss
+Sun,2019-08-18,14:00 ,Away,L,0.0,1.0,Sheffield Utd,0.3,1.6,30197.0,Luka Milivojević,4-4-2,David Coote
+Sat,2019-08-24,15:00 ,Away,W,2.0,1.0,Manchester Utd,0.8,2.2,73454.0,Luka Milivojević,4-1-4-1,Paul Tierney
+Sat,2019-08-31,15:00 ,Home,W,1.0,0.0,Aston Villa,1.4,0.3,25248.0,Luka Milivojević,4-3-3,Kevin Friend
+Sat,2019-09-14,15:00 ,Away,L,0.0,4.0,Tottenham,0.7,0.9,59812.0,Luka Milivojević,4-5-1,Craig Pawson
+Sun,2019-09-22,14:00 ,Home,D,1.0,1.0,Wolves,0.9,0.9,25122.0,Luka Milivojević,4-5-1,Stuart Attwell
+Sat,2019-09-28,15:00 ,Home,W,2.0,0.0,Norwich City,1.5,0.6,25477.0,Luka Milivojević,4-5-1,Jonathan Moss
+Sat,2019-10-05,17:30 ,Away,W,2.0,1.0,West Ham,2.0,1.2,59912.0,Gary Cahill,4-5-1,Michael Oliver
+Sat,2019-10-19,17:30 ,Home,L,0.0,2.0,Manchester City,0.5,2.4,25480.0,Luka Milivojević,4-5-1,Anthony Taylor
+Sun,2019-10-27,16:30 ,Away,D,2.0,2.0,Arsenal,1.7,1.7,60345.0,Luka Milivojević,4-5-1,Martin Atkinson
+Sun,2019-11-03,14:00 ,Home,L,0.0,2.0,Leicester City,0.4,1.4,25480.0,Luka Milivojević,4-5-1,Paul Tierney
+Sat,2019-11-09,12:30 ,Away,L,0.0,2.0,Chelsea,0.2,2.5,40525.0,Luka Milivojević,4-5-1,Mike Dean
+Sat,2019-11-23,15:00 ,Home,L,1.0,2.0,Liverpool,1.1,1.5,25486.0,Luka Milivojević,4-5-1,Kevin Friend
+Sat,2019-11-30,15:00 ,Away,W,2.0,0.0,Burnley,0.6,1.7,19818.0,Luka Milivojević,4-5-1,Peter Bankes
+Tue,2019-12-03,19:30 ,Home,W,1.0,0.0,Bournemouth,0.3,0.3,23497.0,Luka Milivojević,4-5-1,Anthony Taylor
+Sat,2019-12-07,15:00 ,Away,D,0.0,0.0,Watford,0.3,1.3,20070.0,Luka Milivojević,4-5-1,Martin Atkinson
+Mon,2019-12-16,19:45 ,Home,D,1.0,1.0,Brighton,0.8,2.2,24175.0,Luka Milivojević,4-3-3,Craig Pawson
+Sat,2019-12-21,15:00 ,Away,L,0.0,1.0,Newcastle Utd,1.5,0.4,45453.0,Luka Milivojević,4-3-3,Simon Hooper
+Thu,2019-12-26,15:00 ,Home,W,2.0,1.0,West Ham,2.3,0.9,25462.0,Luka Milivojević,4-3-3,Andre Marriner
+Sat,2019-12-28,15:00 ,Away,D,1.0,1.0,Southampton,0.2,1.4,31108.0,Luka Milivojević,4-5-1,Andy Madley
+Wed,2020-01-01,17:30 ,Away,D,1.0,1.0,Norwich City,1.5,1.6,27021.0,Luka Milivojević,4-5-1,Jonathan Moss
+Sat,2020-01-11,12:30 ,Home,D,1.0,1.0,Arsenal,0.4,1.3,25468.0,James Tomkins,4-5-1,Paul Tierney
+Sat,2020-01-18,15:00 ,Away,D,2.0,2.0,Manchester City,0.5,2.0,54439.0,James Tomkins,4-5-1,Graham Scott
+Tue,2020-01-21,19:30 ,Home,L,0.0,2.0,Southampton,0.7,1.3,23739.0,James Tomkins,4-5-1,Andre Marriner
+Sat,2020-02-01,15:00 ,Home,L,0.0,1.0,Sheffield Utd,1.1,0.6,25170.0,Luka Milivojević,4-5-1,Andy Madley
+Sat,2020-02-08,12:30 ,Away,L,1.0,3.0,Everton,1.1,2.2,38987.0,Luka Milivojević,4-1-4-1,David Coote
+Sat,2020-02-22,15:00 ,Home,W,1.0,0.0,Newcastle Utd,1.3,0.2,25486.0,Gary Cahill,4-3-3,Peter Bankes
+Sat,2020-02-29,12:30 ,Away,W,1.0,0.0,Brighton,2.3,1.8,30124.0,Gary Cahill,4-1-4-1,Martin Atkinson
+Sat,2020-03-07,15:00 ,Home,W,1.0,0.0,Watford,0.6,0.6,25461.0,Gary Cahill,4-3-3,Anthony Taylor

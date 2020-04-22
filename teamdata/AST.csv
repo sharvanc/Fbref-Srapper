@@ -1,0 +1,29 @@
+Day,Date,Time,Venue,Result,GF,GA,Opponent,xG,xGA,Attendance,Captain,Formation,Referee
+Sat,2019-08-10,17:30 ,Away,L,1.0,3.0,Tottenham,0.6,2.6,60407.0,Jack Grealish,4-1-4-1,Chris Kavanagh
+Sat,2019-08-17,15:00 ,Home,L,1.0,2.0,Bournemouth,1.8,1.3,40996.0,Jack Grealish,4-3-3,Martin Atkinson
+Fri,2019-08-23,20:00 ,Home,W,2.0,0.0,Everton,0.9,1.0,41922.0,Jack Grealish,4-1-4-1,Michael Oliver
+Sat,2019-08-31,15:00 ,Away,L,0.0,1.0,Crystal Palace,0.3,1.4,25248.0,Jack Grealish,4-3-3,Kevin Friend
+Mon,2019-09-16,20:00 ,Home,D,0.0,0.0,West Ham,1.0,0.5,42010.0,Jack Grealish,4-3-3,Mike Dean
+Sun,2019-09-22,16:30 ,Away,L,2.0,3.0,Arsenal,1.2,2.3,60331.0,Jack Grealish,4-3-3,Jonathan Moss
+Sat,2019-09-28,15:00 ,Home,D,2.0,2.0,Burnley,0.7,1.3,41546.0,Jack Grealish,4-3-3,Lee Mason
+Sat,2019-10-05,15:00 ,Away,W,5.0,1.0,Norwich City,3.0,3.2,27045.0,Jack Grealish,4-3-3,Andy Madley
+Sat,2019-10-19,15:00 ,Home,W,2.0,1.0,Brighton,2.6,1.3,41826.0,Jack Grealish,4-3-3,David Coote
+Sat,2019-10-26,12:30 ,Away,L,0.0,3.0,Manchester City,1.0,2.6,54506.0,Jack Grealish,4-1-4-1,Graham Scott
+Sat,2019-11-02,15:00 ,Home,L,1.0,2.0,Liverpool,0.8,2.5,41878.0,Tyrone Mings,4-3-3,Jonathan Moss
+Sun,2019-11-10,14:00 ,Away,L,1.0,2.0,Wolves,0.6,1.9,31607.0,Tyrone Mings,4-3-3,Anthony Taylor
+Mon,2019-11-25,20:00 ,Home,W,2.0,0.0,Newcastle Utd,2.0,0.8,41821.0,Jack Grealish,4-3-3,Lee Mason
+Sun,2019-12-01,16:30 ,Away,D,2.0,2.0,Manchester Utd,1.2,1.7,73381.0,Jack Grealish,4-3-3,Craig Pawson
+Wed,2019-12-04,19:30 ,Away,L,1.0,2.0,Chelsea,0.8,2.3,40628.0,Jack Grealish,4-3-3,Chris Kavanagh
+Sun,2019-12-08,14:00 ,Home,L,1.0,4.0,Leicester City,1.1,4.4,41908.0,Jack Grealish,4-1-4-1,Michael Oliver
+Sat,2019-12-14,15:00 ,Away,L,0.0,2.0,Sheffield Utd,1.2,1.5,30396.0,Jack Grealish,4-3-3,Peter Bankes
+Sat,2019-12-21,15:00 ,Home,L,1.0,3.0,Southampton,1.1,3.0,41834.0,Jack Grealish,4-3-3,Craig Pawson
+Thu,2019-12-26,15:00 ,Home,W,1.0,0.0,Norwich City,0.6,1.3,41289.0,Jack Grealish,4-2-3-1,Chris Kavanagh
+Sat,2019-12-28,15:00 ,Away,L,0.0,3.0,Watford,0.7,2.6,21348.0,Jack Grealish,4-2-3-1,Simon Hooper
+Wed,2020-01-01,12:30 ,Away,W,2.0,1.0,Burnley,1.0,2.1,19561.0,Jack Grealish,3-4-3,Michael Oliver
+Sun,2020-01-12,16:30 ,Home,L,1.0,6.0,Manchester City,0.9,2.4,41823.0,Jack Grealish,3-5-2,Jonathan Moss
+Sat,2020-01-18,15:00 ,Away,D,1.0,1.0,Brighton,0.8,0.9,30551.0,Jack Grealish,3-4-3,Andy Madley
+Tue,2020-01-21,19:30 ,Home,W,2.0,1.0,Watford,0.9,1.3,40867.0,Jack Grealish,3-4-3,Martin Atkinson
+Sat,2020-02-01,15:00 ,Away,L,1.0,2.0,Bournemouth,1.5,2.2,10722.0,Jack Grealish,3-4-3,Anthony Taylor
+Sun,2020-02-16,14:00 ,Home,L,2.0,3.0,Tottenham,1.9,3.2,41874.0,Jack Grealish,3-4-3,Martin Atkinson
+Sat,2020-02-22,15:00 ,Away,L,0.0,2.0,Southampton,0.5,3.0,31478.0,Jack Grealish,3-4-3,Craig Pawson
+Mon,2020-03-09,20:00 ,Away,L,0.0,4.0,Leicester City,0.5,2.3,32125.0,Jack Grealish,4-1-4-1,Michael Oliver

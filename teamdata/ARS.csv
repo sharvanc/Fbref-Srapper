@@ -1,0 +1,29 @@
+Day,Date,Time,Venue,Result,GF,GA,Opponent,xG,xGA,Attendance,Captain,Formation,Referee
+Sun,2019-08-11,14:00 ,Away,W,1.0,0.0,Newcastle Utd,0.9,0.5,47635.0,Granit Xhaka,4-2-3-1,Martin Atkinson
+Sat,2019-08-17,12:30 ,Home,W,2.0,1.0,Burnley,1.0,1.3,60214.0,Nacho Monreal,4-2-3-1,Mike Dean
+Sat,2019-08-24,17:30 ,Away,L,1.0,3.0,Liverpool,1.0,2.3,53298.0,Granit Xhaka,4-4-2◆,Anthony Taylor
+Sun,2019-09-01,16:30 ,Home,D,2.0,2.0,Tottenham,2.6,2.0,60333.0,Granit Xhaka,4-3-3,Martin Atkinson
+Sun,2019-09-15,16:30 ,Away,D,2.0,2.0,Watford,1.0,2.6,21360.0,Granit Xhaka,4-4-2◆,Anthony Taylor
+Sun,2019-09-22,16:30 ,Home,W,3.0,2.0,Aston Villa,2.3,1.2,60331.0,Granit Xhaka,4-2-3-1,Jonathan Moss
+Mon,2019-09-30,20:00 ,Away,D,1.0,1.0,Manchester Utd,1.6,1.1,73201.0,Granit Xhaka,4-3-3,Kevin Friend
+Sun,2019-10-06,14:00 ,Home,W,1.0,0.0,Bournemouth,1.0,0.5,60326.0,Granit Xhaka,4-2-3-1,Martin Atkinson
+Mon,2019-10-21,20:00 ,Away,L,0.0,1.0,Sheffield Utd,0.8,0.9,30775.0,Granit Xhaka,4-2-3-1,Mike Dean
+Sun,2019-10-27,16:30 ,Home,D,2.0,2.0,Crystal Palace,1.7,1.7,60345.0,Granit Xhaka,4-4-2,Martin Atkinson
+Sat,2019-11-02,15:00 ,Home,D,1.0,1.0,Wolves,1.0,1.5,60383.0,Pierre-Emerick Aubameyang,4-4-2◆,Michael Oliver
+Sat,2019-11-09,17:30 ,Away,L,0.0,2.0,Leicester City,0.8,1.7,32209.0,Pierre-Emerick Aubameyang,3-4-1-2,Chris Kavanagh
+Sat,2019-11-23,15:00 ,Home,D,2.0,2.0,Southampton,1.8,2.6,60295.0,Pierre-Emerick Aubameyang,3-4-1-2,Stuart Attwell
+Sun,2019-12-01,14:00 ,Away,D,2.0,2.0,Norwich City,2.0,1.4,27067.0,Pierre-Emerick Aubameyang,4-2-3-1,Paul Tierney
+Thu,2019-12-05,20:15 ,Home,L,1.0,2.0,Brighton,1.1,2.2,60164.0,Pierre-Emerick Aubameyang,4-2-3-1,Graham Scott
+Mon,2019-12-09,20:00 ,Away,W,3.0,1.0,West Ham,1.7,0.6,59936.0,Pierre-Emerick Aubameyang,4-2-3-1,Mike Dean
+Sun,2019-12-15,16:30 ,Home,L,0.0,3.0,Manchester City,0.4,1.8,60031.0,Pierre-Emerick Aubameyang,4-2-3-1,Paul Tierney
+Sat,2019-12-21,12:30 ,Away,D,0.0,0.0,Everton,0.9,0.4,39336.0,Pierre-Emerick Aubameyang,4-2-3-1,Kevin Friend
+Thu,2019-12-26,15:00 ,Away,D,1.0,1.0,Bournemouth,1.7,1.0,10234.0,Pierre-Emerick Aubameyang,4-2-3-1,Stuart Attwell
+Sun,2019-12-29,14:00 ,Home,L,1.0,2.0,Chelsea,0.9,1.7,60309.0,Pierre-Emerick Aubameyang,4-2-3-1,Craig Pawson
+Wed,2020-01-01,20:00 ,Home,W,2.0,0.0,Manchester Utd,1.4,0.9,60328.0,Pierre-Emerick Aubameyang,4-2-3-1,Chris Kavanagh
+Sat,2020-01-11,12:30 ,Away,D,1.0,1.0,Crystal Palace,1.3,0.4,25468.0,Pierre-Emerick Aubameyang,4-2-3-1,Paul Tierney
+Sat,2020-01-18,15:00 ,Home,D,1.0,1.0,Sheffield Utd,1.4,0.9,60310.0,Alexandre Lacazette,4-2-3-1,Mike Dean
+Tue,2020-01-21,20:15 ,Away,D,2.0,2.0,Chelsea,0.5,2.9,40577.0,Héctor Bellerín,4-2-3-1,Stuart Attwell
+Sun,2020-02-02,14:00 ,Away,D,0.0,0.0,Burnley,1.1,1.9,21048.0,Pierre-Emerick Aubameyang,4-2-3-1,Chris Kavanagh
+Sun,2020-02-16,16:30 ,Home,W,4.0,0.0,Newcastle Utd,2.0,0.9,60188.0,Pierre-Emerick Aubameyang,4-2-3-1,Lee Mason
+Sun,2020-02-23,16:30 ,Home,W,3.0,2.0,Everton,1.3,2.0,60296.0,Pierre-Emerick Aubameyang,4-2-3-1,Stuart Attwell
+Sat,2020-03-07,15:00 ,Home,W,1.0,0.0,West Ham,1.3,1.8,60335.0,Pierre-Emerick Aubameyang,4-2-3-1,Martin Atkinson

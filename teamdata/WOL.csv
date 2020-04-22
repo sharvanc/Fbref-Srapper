@@ -1,0 +1,30 @@
+Day,Date,Time,Venue,Result,GF,GA,Opponent,xG,xGA,Attendance,Captain,Formation,Referee
+Sun,2019-08-11,14:00 ,Away,D,0.0,0.0,Leicester City,0.6,0.6,32015.0,Conor Coady,3-5-2,Andre Marriner
+Mon,2019-08-19,20:00 ,Home,D,1.0,1.0,Manchester Utd,0.3,1.3,31314.0,Conor Coady,3-5-2,Jonathan Moss
+Sun,2019-08-25,16:30 ,Home,D,1.0,1.0,Burnley,1.5,1.1,30522.0,Conor Coady,3-5-2,Craig Pawson
+Sun,2019-09-01,14:00 ,Away,L,2.0,3.0,Everton,1.3,1.3,39374.0,Conor Coady,3-5-2,Anthony Taylor
+Sat,2019-09-14,15:00 ,Home,L,2.0,5.0,Chelsea,1.6,1.8,31534.0,Conor Coady,3-5-2,Graham Scott
+Sun,2019-09-22,14:00 ,Away,D,1.0,1.0,Crystal Palace,0.9,0.9,25122.0,Conor Coady,3-4-3,Stuart Attwell
+Sat,2019-09-28,15:00 ,Home,W,2.0,0.0,Watford,1.5,1.0,30711.0,Conor Coady,3-4-3,Paul Tierney
+Sun,2019-10-06,14:00 ,Away,W,2.0,0.0,Manchester City,1.7,1.2,54435.0,Conor Coady,3-5-2,Craig Pawson
+Sat,2019-10-19,15:00 ,Home,D,1.0,1.0,Southampton,0.9,1.4,30915.0,Conor Coady,3-5-2,Peter Bankes
+Sun,2019-10-27,14:00 ,Away,D,1.0,1.0,Newcastle Utd,1.0,0.7,46019.0,Conor Coady,3-5-2,Kevin Friend
+Sat,2019-11-02,15:00 ,Away,D,1.0,1.0,Arsenal,1.5,1.0,60383.0,Conor Coady,3-4-3,Michael Oliver
+Sun,2019-11-10,14:00 ,Home,W,2.0,1.0,Aston Villa,1.9,0.6,31607.0,Conor Coady,3-4-3,Anthony Taylor
+Sat,2019-11-23,15:00 ,Away,W,2.0,1.0,Bournemouth,1.4,0.5,10539.0,Conor Coady,3-4-3,Simon Hooper
+Sun,2019-12-01,14:00 ,Home,D,1.0,1.0,Sheffield Utd,1.3,1.0,31642.0,Conor Coady,3-4-3,David Coote
+Wed,2019-12-04,19:30 ,Home,W,2.0,0.0,West Ham,1.9,0.4,31217.0,Conor Coady,3-4-3,Andre Marriner
+Sun,2019-12-08,16:30 ,Away,D,2.0,2.0,Brighton,1.5,0.9,30189.0,Conor Coady,3-4-3,Jonathan Moss
+Sun,2019-12-15,14:00 ,Home,L,1.0,2.0,Tottenham,0.8,0.9,31674.0,Conor Coady,3-4-3,Stuart Attwell
+Sat,2019-12-21,15:00 ,Away,W,2.0,1.0,Norwich City,1.3,1.4,27053.0,Conor Coady,3-4-3,Peter Bankes
+Fri,2019-12-27,19:45 ,Home,W,3.0,2.0,Manchester City,2.0,1.6,31737.0,Conor Coady,3-4-3,Martin Atkinson
+Sun,2019-12-29,16:30 ,Away,L,0.0,1.0,Liverpool,0.7,1.2,53326.0,Conor Coady,3-5-2,Anthony Taylor
+Wed,2020-01-01,15:00 ,Away,L,1.0,2.0,Watford,1.4,0.9,20584.0,Conor Coady,3-4-3,Andy Madley
+Sat,2020-01-11,15:00 ,Home,D,1.0,1.0,Newcastle Utd,1.0,0.3,31570.0,Conor Coady,3-4-3,Peter Bankes
+Sat,2020-01-18,15:00 ,Away,W,3.0,2.0,Southampton,1.7,0.9,31152.0,Conor Coady,3-4-3,Darren England
+Thu,2020-01-23,20:00 ,Home,L,1.0,2.0,Liverpool,1.4,1.4,31746.0,Conor Coady,3-4-1-2,Michael Oliver
+Sat,2020-02-01,17:30 ,Away,D,0.0,0.0,Manchester Utd,1.0,0.8,73363.0,Conor Coady,3-4-3,Paul Tierney
+Fri,2020-02-14,20:00 ,Home,D,0.0,0.0,Leicester City,1.0,0.7,31682.0,Conor Coady,3-4-3,Mike Dean
+Sun,2020-02-23,14:00 ,Home,W,3.0,0.0,Norwich City,2.8,0.4,31046.0,Conor Coady,3-5-2,Chris Kavanagh
+Sun,2020-03-01,14:00 ,Away,W,3.0,2.0,Tottenham,2.5,1.5,58064.0,Conor Coady,3-4-3,Stuart Attwell
+Sat,2020-03-07,15:00 ,Home,D,0.0,0.0,Brighton,0.6,0.3,31490.0,Conor Coady,3-5-2,Andre Marriner

@@ -1,0 +1,30 @@
+Day,Date,Time,Venue,Result,GF,GA,Opponent,xG,xGA,Attendance,Captain,Formation,Referee
+Sat,2019-08-10,15:00 ,Away,W,3.0,0.0,Watford,0.7,0.9,20245.0,Lewis Dunk,3-4-3,Craig Pawson
+Sat,2019-08-17,15:00 ,Home,D,1.0,1.0,West Ham,1.7,0.8,30459.0,Lewis Dunk,3-4-3,Anthony Taylor
+Sat,2019-08-24,15:00 ,Home,L,0.0,2.0,Southampton,1.0,1.6,30019.0,Lewis Dunk,3-4-3,Kevin Friend
+Sat,2019-08-31,15:00 ,Away,L,0.0,4.0,Manchester City,0.5,1.9,54386.0,Lewis Dunk,3-4-3,Jonathan Moss
+Sat,2019-09-14,15:00 ,Home,D,1.0,1.0,Burnley,0.9,0.6,29398.0,Lewis Dunk,3-4-3,Michael Oliver
+Sat,2019-09-21,17:30 ,Away,D,0.0,0.0,Newcastle Utd,1.1,0.9,43316.0,Lewis Dunk,3-4-3,Martin Atkinson
+Sat,2019-09-28,15:00 ,Away,L,0.0,2.0,Chelsea,0.5,3.2,40683.0,Lewis Dunk,3-4-3,Chris Kavanagh
+Sat,2019-10-05,12:30 ,Home,W,3.0,0.0,Tottenham,1.9,0.7,30610.0,Lewis Dunk,4-4-2,Jonathan Moss
+Sat,2019-10-19,15:00 ,Away,L,1.0,2.0,Aston Villa,1.3,2.6,41826.0,Lewis Dunk,4-4-2,David Coote
+Sat,2019-10-26,15:00 ,Home,W,3.0,2.0,Everton,1.3,0.8,30529.0,Lewis Dunk,4-4-2,Andy Madley
+Sat,2019-11-02,15:00 ,Home,W,2.0,0.0,Norwich City,2.3,0.4,30539.0,Lewis Dunk,4-4-2,Kevin Friend
+Sun,2019-11-10,14:00 ,Away,L,1.0,3.0,Manchester Utd,0.8,2.3,73556.0,Lewis Dunk,4-4-2,Jonathan Moss
+Sat,2019-11-23,15:00 ,Home,L,0.0,2.0,Leicester City,0.9,3.4,30640.0,Dale Stephens,4-3-3,Mike Dean
+Sat,2019-11-30,15:00 ,Away,L,1.0,2.0,Liverpool,1.2,1.8,53319.0,Lewis Dunk,4-3-3,Martin Atkinson
+Thu,2019-12-05,20:15 ,Away,W,2.0,1.0,Arsenal,2.2,1.1,60164.0,Lewis Dunk,4-4-2◆,Graham Scott
+Sun,2019-12-08,16:30 ,Home,D,2.0,2.0,Wolves,0.9,1.5,30189.0,Lewis Dunk,4-3-3,Jonathan Moss
+Mon,2019-12-16,19:45 ,Away,D,1.0,1.0,Crystal Palace,2.2,0.8,24175.0,Lewis Dunk,4-2-3-1,Craig Pawson
+Sat,2019-12-21,15:00 ,Home,L,0.0,1.0,Sheffield Utd,0.6,1.2,30505.0,Lewis Dunk,4-2-3-1,Robert Jones
+Thu,2019-12-26,12:30 ,Away,L,1.0,2.0,Tottenham,0.6,1.4,56308.0,Dale Stephens,3-4-3,Graham Scott
+Sat,2019-12-28,12:30 ,Home,W,2.0,0.0,Bournemouth,0.9,0.6,30441.0,Lewis Dunk,4-2-3-1,Paul Tierney
+Wed,2020-01-01,12:30 ,Home,D,1.0,1.0,Chelsea,1.0,1.6,30559.0,Lewis Dunk,4-4-2◆,Stuart Attwell
+Sat,2020-01-11,15:00 ,Away,L,0.0,1.0,Everton,1.3,1.9,38772.0,Lewis Dunk,3-4-3,David Coote
+Sat,2020-01-18,15:00 ,Home,D,1.0,1.0,Aston Villa,0.9,0.8,30551.0,Lewis Dunk,4-4-2,Andy Madley
+Tue,2020-01-21,19:30 ,Away,L,1.0,3.0,Bournemouth,1.3,1.7,10065.0,Lewis Dunk,4-4-2,Kevin Friend
+Sat,2020-02-01,15:00 ,Away,D,3.0,3.0,West Ham,2.1,0.9,59952.0,Lewis Dunk,4-2-3-1,Michael Oliver
+Sat,2020-02-08,17:30 ,Home,D,1.0,1.0,Watford,0.8,0.3,30443.0,Lewis Dunk,4-2-3-1,Kevin Friend
+Sat,2020-02-22,15:00 ,Away,D,1.0,1.0,Sheffield Utd,1.1,1.7,31888.0,Lewis Dunk,3-5-2,Graham Scott
+Sat,2020-02-29,12:30 ,Home,L,0.0,1.0,Crystal Palace,1.8,2.3,30124.0,Lewis Dunk,4-2-3-1,Martin Atkinson
+Sat,2020-03-07,15:00 ,Away,D,0.0,0.0,Wolves,0.3,0.6,31490.0,Lewis Dunk,4-3-3,Andre Marriner

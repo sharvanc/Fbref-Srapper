@@ -1,0 +1,30 @@
+Day,Date,Time,Venue,Result,GF,GA,Opponent,xG,xGA,Attendance,Captain,Formation,Referee
+Fri,2019-08-09,20:00 ,Home,W,4.0,1.0,Norwich City,1.8,1.0,53333.0,Jordan Henderson,4-3-3,Michael Oliver
+Sat,2019-08-17,15:00 ,Away,W,2.0,1.0,Southampton,1.5,1.6,31712.0,James Milner,4-3-3,Andre Marriner
+Sat,2019-08-24,17:30 ,Home,W,3.0,1.0,Arsenal,2.3,1.0,53298.0,Jordan Henderson,4-3-3,Anthony Taylor
+Sat,2019-08-31,17:30 ,Away,W,3.0,0.0,Burnley,1.0,0.5,21762.0,Jordan Henderson,4-3-3,Chris Kavanagh
+Sat,2019-09-14,12:30 ,Home,W,3.0,1.0,Newcastle Utd,2.7,0.4,51430.0,Virgil van Dijk,4-3-3,Andre Marriner
+Sun,2019-09-22,16:30 ,Away,W,2.0,1.0,Chelsea,0.9,1.3,40638.0,Jordan Henderson,4-3-3,Michael Oliver
+Sat,2019-09-28,12:30 ,Away,W,1.0,0.0,Sheffield Utd,1.6,1.4,31774.0,Jordan Henderson,4-3-3,Anthony Taylor
+Sat,2019-10-05,15:00 ,Home,W,2.0,1.0,Leicester City,2.8,0.2,53322.0,James Milner,4-3-3,Chris Kavanagh
+Sun,2019-10-20,16:30 ,Away,D,1.0,1.0,Manchester Utd,1.2,0.7,73737.0,Jordan Henderson,4-3-3,Martin Atkinson
+Sun,2019-10-27,16:30 ,Home,W,2.0,1.0,Tottenham,2.5,1.4,53222.0,Jordan Henderson,4-3-3,Anthony Taylor
+Sat,2019-11-02,15:00 ,Away,W,2.0,1.0,Aston Villa,2.5,0.8,41878.0,Jordan Henderson,4-3-3,Jonathan Moss
+Sun,2019-11-10,16:30 ,Home,W,3.0,1.0,Manchester City,0.9,1.3,53324.0,Jordan Henderson,4-3-3,Michael Oliver
+Sat,2019-11-23,15:00 ,Away,W,2.0,1.0,Crystal Palace,1.5,1.1,25486.0,Jordan Henderson,4-3-3,Kevin Friend
+Sat,2019-11-30,15:00 ,Home,W,2.0,1.0,Brighton,1.8,1.2,53319.0,Jordan Henderson,4-3-3,Martin Atkinson
+Wed,2019-12-04,20:15 ,Home,W,5.0,2.0,Everton,2.5,1.5,53094.0,James Milner,4-2-3-1,Mike Dean
+Sat,2019-12-07,15:00 ,Away,W,3.0,0.0,Bournemouth,2.4,0.2,10832.0,Jordan Henderson,4-3-3,Chris Kavanagh
+Sat,2019-12-14,12:30 ,Home,W,2.0,0.0,Watford,1.5,1.2,53311.0,Jordan Henderson,4-2-3-1,Andre Marriner
+Thu,2019-12-26,20:00 ,Away,W,4.0,0.0,Leicester City,3.1,0.1,32211.0,Jordan Henderson,4-3-3,Michael Oliver
+Sun,2019-12-29,16:30 ,Home,W,1.0,0.0,Wolves,1.2,0.7,53326.0,Jordan Henderson,4-2-3-1,Anthony Taylor
+Thu,2020-01-02,20:00 ,Home,W,2.0,0.0,Sheffield Utd,3.0,0.9,53321.0,Jordan Henderson,4-3-3,Paul Tierney
+Sat,2020-01-11,17:30 ,Away,W,1.0,0.0,Tottenham,1.9,1.7,61023.0,Jordan Henderson,4-3-3,Martin Atkinson
+Sun,2020-01-19,16:30 ,Home,W,2.0,0.0,Manchester Utd,2.4,1.2,52916.0,Jordan Henderson,4-3-3,Craig Pawson
+Thu,2020-01-23,20:00 ,Away,W,2.0,1.0,Wolves,1.4,1.4,31746.0,Jordan Henderson,4-3-3,Michael Oliver
+Wed,2020-01-29,19:45 ,Away,W,2.0,0.0,West Ham,2.4,0.8,59959.0,Jordan Henderson,4-3-3,Jonathan Moss
+Sat,2020-02-01,15:00 ,Home,W,4.0,0.0,Southampton,2.9,1.0,53291.0,Jordan Henderson,4-3-3,Kevin Friend
+Sat,2020-02-15,17:30 ,Away,W,1.0,0.0,Norwich City,2.2,0.5,27110.0,Jordan Henderson,4-3-3,Stuart Attwell
+Mon,2020-02-24,20:00 ,Home,W,3.0,2.0,West Ham,2.8,0.6,53313.0,Virgil van Dijk,4-3-3,Jonathan Moss
+Sat,2020-02-29,17:30 ,Away,L,0.0,3.0,Watford,0.3,2.1,21634.0,Virgil van Dijk,4-3-3,Michael Oliver
+Sat,2020-03-07,12:30 ,Home,W,2.0,1.0,Bournemouth,1.2,1.3,53323.0,James Milner,4-3-3,Paul Tierney

@@ -1,0 +1,30 @@
+Day,Date,Time,Venue,Result,GF,GA,Opponent,xG,xGA,Attendance,Captain,Formation,Referee
+Sat,2019-08-10,15:00 ,Away,D,0.0,0.0,Crystal Palace,0.9,0.8,25151.0,Séamus Coleman,4-2-3-1,Jonathan Moss
+Sat,2019-08-17,15:00 ,Home,W,1.0,0.0,Watford,0.9,1.2,39066.0,Séamus Coleman,4-2-3-1,Lee Mason
+Fri,2019-08-23,20:00 ,Away,L,0.0,2.0,Aston Villa,1.0,0.9,41922.0,Séamus Coleman,4-2-3-1,Michael Oliver
+Sun,2019-09-01,14:00 ,Home,W,3.0,2.0,Wolves,1.3,1.3,39374.0,Séamus Coleman,4-2-3-1,Anthony Taylor
+Sun,2019-09-15,14:00 ,Away,L,1.0,3.0,Bournemouth,1.4,1.5,10416.0,Séamus Coleman,4-2-3-1,Paul Tierney
+Sat,2019-09-21,15:00 ,Home,L,0.0,2.0,Sheffield Utd,1.0,0.2,39354.0,Séamus Coleman,4-2-3-1,Simon Hooper
+Sat,2019-09-28,17:30 ,Home,L,1.0,3.0,Manchester City,2.5,3.3,39222.0,Séamus Coleman,4-2-3-1,Michael Oliver
+Sat,2019-10-05,15:00 ,Away,L,0.0,1.0,Burnley,0.8,0.6,20650.0,Séamus Coleman,4-2-3-1,Graham Scott
+Sat,2019-10-19,12:30 ,Home,W,2.0,0.0,West Ham,2.1,0.9,39263.0,Lucas Digne,4-2-3-1,Paul Tierney
+Sat,2019-10-26,15:00 ,Away,L,2.0,3.0,Brighton,0.8,1.3,30529.0,Lucas Digne,4-2-3-1,Andy Madley
+Sun,2019-11-03,16:30 ,Home,D,1.0,1.0,Tottenham,0.7,0.6,39001.0,Lucas Digne,4-1-4-1,Martin Atkinson
+Sat,2019-11-09,15:00 ,Away,W,2.0,1.0,Southampton,1.9,0.9,29754.0,Gylfi Sigurðsson,4-2-3-1,Paul Tierney
+Sat,2019-11-23,15:00 ,Home,L,0.0,2.0,Norwich City,0.7,1.6,39241.0,Gylfi Sigurðsson,4-2-3-1,Anthony Taylor
+Sun,2019-12-01,16:30 ,Away,L,1.0,2.0,Leicester City,0.9,2.3,32144.0,Gylfi Sigurðsson,3-4-3,Graham Scott
+Wed,2019-12-04,20:15 ,Away,L,2.0,5.0,Liverpool,1.5,2.5,53094.0,Gylfi Sigurðsson,3-4-3,Mike Dean
+Sat,2019-12-07,12:30 ,Home,W,3.0,1.0,Chelsea,1.6,1.0,39114.0,Gylfi Sigurðsson,4-4-2,Craig Pawson
+Sun,2019-12-15,14:00 ,Away,D,1.0,1.0,Manchester Utd,0.3,1.6,63328.0,Séamus Coleman,4-4-2,Michael Oliver
+Sat,2019-12-21,12:30 ,Home,D,0.0,0.0,Arsenal,0.4,0.9,39336.0,Gylfi Sigurðsson,4-4-2,Kevin Friend
+Thu,2019-12-26,15:00 ,Home,W,1.0,0.0,Burnley,1.8,0.5,39177.0,Séamus Coleman,3-4-1-2,Anthony Taylor
+Sat,2019-12-28,15:00 ,Away,W,2.0,1.0,Newcastle Utd,3.5,1.7,52211.0,Leighton Baines,4-4-2,Lee Mason
+Wed,2020-01-01,17:30 ,Away,L,1.0,2.0,Manchester City,1.1,1.6,54407.0,Séamus Coleman,3-5-2,Andre Marriner
+Sat,2020-01-11,15:00 ,Home,W,1.0,0.0,Brighton,1.9,1.3,38772.0,Gylfi Sigurðsson,4-4-2,David Coote
+Sat,2020-01-18,15:00 ,Away,D,1.0,1.0,West Ham,1.3,1.2,59915.0,Séamus Coleman,4-4-2,Andre Marriner
+Tue,2020-01-21,19:30 ,Home,D,2.0,2.0,Newcastle Utd,1.7,1.0,38822.0,Lucas Digne,4-4-2,Simon Hooper
+Sat,2020-02-01,15:00 ,Away,W,3.0,2.0,Watford,2.1,0.7,21229.0,Gylfi Sigurðsson,4-4-2,Craig Pawson
+Sat,2020-02-08,12:30 ,Home,W,3.0,1.0,Crystal Palace,2.2,1.1,38987.0,Séamus Coleman,4-4-2,David Coote
+Sun,2020-02-23,16:30 ,Away,L,2.0,3.0,Arsenal,2.0,1.3,60296.0,Leighton Baines,4-4-2,Stuart Attwell
+Sun,2020-03-01,14:00 ,Home,D,1.0,1.0,Manchester Utd,2.5,1.2,39374.0,Séamus Coleman,4-4-2,Chris Kavanagh
+Sun,2020-03-08,14:00 ,Away,L,0.0,4.0,Chelsea,0.5,2.0,40694.0,Gylfi Sigurðsson,4-4-2,Kevin Friend

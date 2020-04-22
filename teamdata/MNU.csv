@@ -1,0 +1,30 @@
+Day,Date,Time,Venue,Result,GF,GA,Opponent,xG,xGA,Attendance,Captain,Formation,Referee
+Sun,2019-08-11,16:30 ,Home,W,4.0,0.0,Chelsea,2.1,0.8,73620.0,David de Gea,4-2-3-1,Anthony Taylor
+Mon,2019-08-19,20:00 ,Away,D,1.0,1.0,Wolves,1.3,0.3,31314.0,David de Gea,4-2-3-1,Jonathan Moss
+Sat,2019-08-24,15:00 ,Home,L,1.0,2.0,Crystal Palace,2.2,0.8,73454.0,David de Gea,4-2-3-1,Paul Tierney
+Sat,2019-08-31,12:30 ,Away,D,1.0,1.0,Southampton,1.7,0.8,30499.0,Ashley Young,4-2-3-1,Mike Dean
+Sat,2019-09-14,15:00 ,Home,W,1.0,0.0,Leicester City,1.1,0.4,73689.0,Ashley Young,4-2-3-1,Martin Atkinson
+Sun,2019-09-22,14:00 ,Away,L,0.0,2.0,West Ham,1.1,0.4,59936.0,Ashley Young,4-2-3-1,Anthony Taylor
+Mon,2019-09-30,20:00 ,Home,D,1.0,1.0,Arsenal,1.1,1.6,73201.0,Ashley Young,4-2-3-1,Kevin Friend
+Sun,2019-10-06,16:30 ,Away,L,0.0,1.0,Newcastle Utd,0.7,0.6,51198.0,Ashley Young,4-2-3-1,Mike Dean
+Sun,2019-10-20,16:30 ,Home,D,1.0,1.0,Liverpool,0.7,1.2,73737.0,Ashley Young,3-4-1-2,Martin Atkinson
+Sun,2019-10-27,16:30 ,Away,W,3.0,1.0,Norwich City,4.1,1.1,27108.0,Ashley Young,4-2-3-1,Stuart Attwell
+Sat,2019-11-02,12:30 ,Away,L,0.0,1.0,Bournemouth,0.7,1.7,10669.0,Ashley Young,4-2-3-1,Chris Kavanagh
+Sun,2019-11-10,14:00 ,Home,W,3.0,1.0,Brighton,2.3,0.8,73556.0,Harry Maguire,4-2-3-1,Jonathan Moss
+Sun,2019-11-24,16:30 ,Away,D,3.0,3.0,Sheffield Utd,1.2,1.2,32024.0,Harry Maguire,3-4-3,Andre Marriner
+Sun,2019-12-01,16:30 ,Home,D,2.0,2.0,Aston Villa,1.7,1.2,73381.0,Harry Maguire,4-2-3-1,Craig Pawson
+Wed,2019-12-04,19:30 ,Home,W,2.0,1.0,Tottenham,1.2,0.5,73252.0,Ashley Young,4-2-3-1,Paul Tierney
+Sat,2019-12-07,17:30 ,Away,W,2.0,1.0,Manchester City,1.6,2.2,54403.0,Harry Maguire,4-2-3-1,Anthony Taylor
+Sun,2019-12-15,14:00 ,Home,D,1.0,1.0,Everton,1.6,0.3,63328.0,Harry Maguire,4-2-3-1,Michael Oliver
+Sun,2019-12-22,14:00 ,Away,L,0.0,2.0,Watford,1.8,1.5,21488.0,Harry Maguire,4-2-3-1,Lee Mason
+Thu,2019-12-26,17:30 ,Home,W,4.0,1.0,Newcastle Utd,1.5,0.8,73206.0,Harry Maguire,4-2-3-1,Kevin Friend
+Sat,2019-12-28,19:45 ,Away,W,2.0,0.0,Burnley,1.9,0.4,21924.0,Ashley Young,4-2-3-1,Mike Dean
+Wed,2020-01-01,20:00 ,Away,L,0.0,2.0,Arsenal,0.9,1.4,60328.0,Harry Maguire,4-2-3-1,Chris Kavanagh
+Sat,2020-01-11,15:00 ,Home,W,4.0,0.0,Norwich City,2.1,0.4,73271.0,Harry Maguire,4-2-3-1,Anthony Taylor
+Sun,2020-01-19,16:30 ,Away,L,0.0,2.0,Liverpool,1.2,2.4,52916.0,Harry Maguire,3-4-1-2,Craig Pawson
+Wed,2020-01-22,20:15 ,Home,L,0.0,2.0,Burnley,2.0,0.7,73198.0,Harry Maguire,4-2-3-1,Jonathan Moss
+Sat,2020-02-01,17:30 ,Home,D,0.0,0.0,Wolves,0.8,1.0,73363.0,Harry Maguire,4-2-3-1,Paul Tierney
+Mon,2020-02-17,20:00 ,Away,W,2.0,0.0,Chelsea,0.8,1.3,40504.0,Harry Maguire,3-4-1-2,Anthony Taylor
+Sun,2020-02-23,14:00 ,Home,W,3.0,0.0,Watford,2.3,0.3,73347.0,Harry Maguire,4-2-3-1,Martin Atkinson
+Sun,2020-03-01,14:00 ,Away,D,1.0,1.0,Everton,1.2,2.5,39374.0,Harry Maguire,4-4-2◆,Chris Kavanagh
+Sun,2020-03-08,16:30 ,Home,W,2.0,0.0,Manchester City,1.4,0.6,73288.0,Harry Maguire,3-4-1-2,Mike Dean

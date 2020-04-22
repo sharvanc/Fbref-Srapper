@@ -1,0 +1,30 @@
+Day,Date,Time,Venue,Result,GF,GA,Opponent,xG,xGA,Attendance,Captain,Formation,Referee
+Sun,2019-08-11,16:30 ,Away,L,0.0,4.0,Manchester Utd,0.8,2.1,73620.0,César Azpilicueta,4-2-3-1,Anthony Taylor
+Sun,2019-08-18,16:30 ,Home,D,1.0,1.0,Leicester City,1.3,0.7,40629.0,César Azpilicueta,4-2-3-1,Oliver Langford
+Sat,2019-08-24,12:30 ,Away,W,3.0,2.0,Norwich City,1.9,1.0,27032.0,César Azpilicueta,4-3-3,Martin Atkinson
+Sat,2019-08-31,15:00 ,Home,D,2.0,2.0,Sheffield Utd,1.7,0.9,40560.0,César Azpilicueta,4-3-3,Stuart Attwell
+Sat,2019-09-14,15:00 ,Away,W,5.0,2.0,Wolves,1.8,1.6,31534.0,César Azpilicueta,3-4-3,Graham Scott
+Sun,2019-09-22,16:30 ,Home,L,1.0,2.0,Liverpool,1.3,0.9,40638.0,César Azpilicueta,4-3-3,Michael Oliver
+Sat,2019-09-28,15:00 ,Home,W,2.0,0.0,Brighton,3.2,0.5,40683.0,César Azpilicueta,4-3-3,Chris Kavanagh
+Sun,2019-10-06,14:00 ,Away,W,4.0,1.0,Southampton,1.9,1.0,31473.0,César Azpilicueta,4-2-3-1,Paul Tierney
+Sat,2019-10-19,15:00 ,Home,W,1.0,0.0,Newcastle Utd,2.1,0.3,40513.0,César Azpilicueta,4-3-3,Andre Marriner
+Sat,2019-10-26,17:30 ,Away,W,4.0,2.0,Burnley,0.9,2.0,20975.0,César Azpilicueta,4-2-3-1,Michael Oliver
+Sat,2019-11-02,17:30 ,Away,W,2.0,1.0,Watford,2.5,1.3,21011.0,César Azpilicueta,4-2-3-1,Anthony Taylor
+Sat,2019-11-09,12:30 ,Home,W,2.0,0.0,Crystal Palace,2.5,0.2,40525.0,Willian,4-2-3-1,Mike Dean
+Sat,2019-11-23,17:30 ,Away,L,1.0,2.0,Manchester City,1.2,1.2,54486.0,César Azpilicueta,4-3-3,Martin Atkinson
+Sat,2019-11-30,15:00 ,Home,L,0.0,1.0,West Ham,2.0,0.9,40595.0,Jorginho,4-2-3-1,Jonathan Moss
+Wed,2019-12-04,19:30 ,Home,W,2.0,1.0,Aston Villa,2.3,0.8,40628.0,César Azpilicueta,4-2-3-1,Chris Kavanagh
+Sat,2019-12-07,12:30 ,Away,L,1.0,3.0,Everton,1.0,1.6,39114.0,César Azpilicueta,4-2-3-1,Craig Pawson
+Sat,2019-12-14,15:00 ,Home,L,0.0,1.0,Bournemouth,1.7,0.9,40243.0,César Azpilicueta,4-2-3-1,Graham Scott
+Sun,2019-12-22,16:30 ,Away,W,2.0,0.0,Tottenham,1.4,0.4,61104.0,César Azpilicueta,3-4-3,Anthony Taylor
+Thu,2019-12-26,15:00 ,Home,L,0.0,2.0,Southampton,0.5,0.8,40651.0,César Azpilicueta,3-4-3,Jonathan Moss
+Sun,2019-12-29,14:00 ,Away,W,2.0,1.0,Arsenal,1.7,0.9,60309.0,César Azpilicueta,3-4-3,Craig Pawson
+Wed,2020-01-01,12:30 ,Away,D,1.0,1.0,Brighton,1.6,1.0,30559.0,César Azpilicueta,4-2-3-1,Stuart Attwell
+Sat,2020-01-11,15:00 ,Home,W,3.0,0.0,Burnley,2.7,0.6,40396.0,César Azpilicueta,4-3-3,Kevin Friend
+Sat,2020-01-18,17:30 ,Away,L,0.0,1.0,Newcastle Utd,2.1,0.6,52217.0,César Azpilicueta,4-3-3,Chris Kavanagh
+Tue,2020-01-21,20:15 ,Home,D,2.0,2.0,Arsenal,2.9,0.5,40577.0,César Azpilicueta,4-3-3,Stuart Attwell
+Sat,2020-02-01,12:30 ,Away,D,2.0,2.0,Leicester City,0.5,1.5,32186.0,César Azpilicueta,4-2-3-1,Lee Mason
+Mon,2020-02-17,20:00 ,Home,L,0.0,2.0,Manchester Utd,1.3,0.8,40504.0,César Azpilicueta,4-3-3,Anthony Taylor
+Sat,2020-02-22,12:30 ,Home,W,2.0,1.0,Tottenham,1.7,0.5,40608.0,César Azpilicueta,3-4-3,Michael Oliver
+Sat,2020-02-29,15:00 ,Away,D,2.0,2.0,Bournemouth,1.9,2.0,10667.0,César Azpilicueta,3-4-3,Andre Marriner
+Sun,2020-03-08,14:00 ,Home,W,4.0,0.0,Everton,2.0,0.5,40694.0,César Azpilicueta,4-3-3,Kevin Friend
